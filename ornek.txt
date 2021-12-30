@@ -1,4 +1,5 @@
 hiiiiiiii
+<<<<<<< HEAD
 
 
 
@@ -6,3 +7,6 @@ hiiiiiiii
 
 
 nasilsiniz
+=======
+how are you?
+>>>>>>> d549223a20966f43c9ba1185576ccd3fe8d08de3
